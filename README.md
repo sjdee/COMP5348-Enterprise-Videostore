@@ -1,5 +1,6 @@
 # COMP5348-Enterprise-Videostore
 
+A videostore application which lets users purchase various DVDs online by processing payment and then automatically allocating a warehouse, based on availability, for delivery.
 
 #  One-Time Setup Procedure for MSMQ
 __To install Message Queuing on Windows 7 or later__
