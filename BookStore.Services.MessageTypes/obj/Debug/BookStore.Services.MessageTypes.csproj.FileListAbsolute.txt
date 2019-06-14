@@ -1,0 +1,95 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Services.MessageTypes\obj\Debug\BookStore.Services.MessageTypes.pdb

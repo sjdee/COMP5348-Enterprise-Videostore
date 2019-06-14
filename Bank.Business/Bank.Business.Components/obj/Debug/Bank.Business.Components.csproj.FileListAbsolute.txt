@@ -1,0 +1,156 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\bin\Debug\Bank.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb

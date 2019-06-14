@@ -1,0 +1,78 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

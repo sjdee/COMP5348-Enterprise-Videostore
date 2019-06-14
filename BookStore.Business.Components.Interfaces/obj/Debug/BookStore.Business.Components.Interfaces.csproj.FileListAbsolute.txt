@@ -1,0 +1,127 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Source\Repos\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\bin\Debug\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.Business.Components.Interfaces\obj\Debug\BookStore.Business.Components.Interfaces.pdb

@@ -1,0 +1,511 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Common.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Common.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Owin.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Common.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Common.dll.config
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\Priya\Documents\Enterprise Scale Software\group assignment\GroupProject\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Owin.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\WebGrease.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll.config
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+\\Mac\Home\Documents\Uni\2019\Semester 1\COMP5348 Enterprise Systems\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Owin.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll.config
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\Priya\source\repos\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Owin.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll.config
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\Priya\Downloads\COMP5348-Group-Assignment-integrate_message_services_jai\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-Group7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.WebClient.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Owin.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\WebGrease.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Common.dll.config
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.Interfaces.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\BookStore.Services.MessageTypes.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.csproj.CopyComplete
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.dll
+C:\Users\Priya\Desktop\COMP5348-Group-Assignment-group-7\COMP5348-Group-Assignment\BookStore.WebClient\obj\Debug\BookStore.WebClient.pdb
